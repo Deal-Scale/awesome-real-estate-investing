@@ -171,7 +171,7 @@ Here’s a strong CTA section you can add at the bottom of your README, optimize
 
 Ready to **accelerate your real estate investing** with world-class AI tools and automation?
 
-* Visit [**Deal Scale**](https://dealscale.io/) — your AI Wealth Engine for real estate teams, investors, and agents. Automate calls, SMS, skip tracing, lead scoring and CRM sync all in one place. ([dealscale.io][1])
+* Visit [**Deal Scale**](https://dealscale.io/) — your AI Wealth Engine for real estate teams, investors, and agents. Automate calls, SMS, skip tracing, lead scoring and CRM sync all in one place. 
 * Explore [**Lead Orchestra**](https://leadorchestra.com/) — the open-source MCP and API aggregator designed to feed high-intent, enriched lead data straight into your pipeline. (Coming soon!)
 
 ### 🔍 How to Get Started
