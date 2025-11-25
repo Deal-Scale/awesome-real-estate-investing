@@ -185,8 +185,5 @@ Your future pipeline shouldn’t wait. **Start today** and let AI become your co
 
 ---
 
-Feel free to adjust the wording slightly to match your brand voice. If you like, I can generate **button-style markdown**, **rich badges**, or even an **open-graph preview** for this CTA to increase click-throughs.
-
-[1]: https://dealscale.io/?utm_source=chatgpt.com "Deal Scale"
 
 
