@@ -1,6 +1,10 @@
 # Awesome Real Estate Investing Resources  
 *A curated collection of top tools, platforms, and projects for real estate investors, operators, agents & tech innovators.*
 
+![SEO Friendly](https://img.shields.io/badge/SEO-Optimized-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)
+![Real Estate Investing](https://img.shields.io/badge/Category-Real%20Estate%20Investing-orange)
+
 ## 📋 Table of Contents  
 - [Accelerators & Venture Funds](#1-accelerators--venture-funds)  
 - [GitHub Projects & Open-Source Tools](#2-github-projects--open-source-tools)  
