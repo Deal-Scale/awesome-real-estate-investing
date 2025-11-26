@@ -1,0 +1,86 @@
+# ---------------------------------------------------------
+# Global Allow — enable full crawling & indexing
+# ---------------------------------------------------------
+User-agent: *
+Allow: /
+
+Sitemap: https://deal-scale.github.io/awesome-real-estate-investing/sitemap.xml
+
+# ---------------------------------------------------------
+# AI Crawlers — explicitly allowed
+# (ensures inclusion in LLM training + search AI models)
+# ---------------------------------------------------------
+
+# OpenAI (ChatGPT Search + GPTBot)
+User-agent: GPTBot
+Allow: /
+
+# OpenAI ChatGPT-User crawler
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+# Google AI (Gemini)
+User-agent: Google-Extended
+Allow: /
+
+# Google Search bot
+User-agent: Googlebot
+Allow: /
+
+# Google News bot
+User-agent: Googlebot-News
+Allow: /
+
+# Bing AI (Copilot)
+User-agent: Bingbot
+Allow: /
+
+# Bing AI Training / Microsoft Edge
+User-agent: MSNBOT
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Meta AI Crawler (Facebook / Instagram AI)
+User-agent: FacebookBot
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Apple (AppleBot for Siri + Spotlight + Apple Intelligence)
+User-agent: Applebot
+Allow: /
+
+# DuckDuckGo AI / DuckAssist
+User-agent: DuckDuckBot
+Allow: /
+
+# Baidu (optional but allowed)
+User-agent: Baiduspider
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+
+# Neeva AI (legacy but harmless)
+User-agent: NeevaBot
+Allow: /
+
+# DataForSEO & SEO tools
+User-agent: SemrushBot
+Allow: /
+User-agent: AhrefsBot
+Allow: /
+User-agent: MJ12bot
+Allow: /
+
+# ---------------------------------------------------------
+# End
+# ---------------------------------------------------------
