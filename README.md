@@ -126,6 +126,7 @@
 * [Matterport](https://www.matterport.com/)
 * [Cubicasa](https://www.cubicasa.com/)
 * [iGUIDE](https://goiguide.com/)
+* [AI Virtual Staging](https://www.aivirtualstaging.net/)
 
 ### Foundational Geospatial & Data Sets
 
