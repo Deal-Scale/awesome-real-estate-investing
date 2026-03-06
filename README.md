@@ -55,6 +55,7 @@
 * [real-estate-roi-calculator](https://github.com/Alirazahaider/real-estate-roi-calculator)
 * [PropTech Analytics Platform](https://github.com/YSayaovong/PropTech-Analytics-Platform-ETL-Forecasting-KPI-Engine)
 * [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization)
+* [Rental-Property-Deal-Analyzer](https://github.com/berkcankapusuzoglu/Rental-Property-Deal-Analyzer) – Free rental property investment calculator with 20+ metrics, AI-powered analysis, deal scoring, and 5-year return projections.
 * [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction)
 
 ---
