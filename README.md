@@ -56,6 +56,7 @@
 * [PropTech Analytics Platform](https://github.com/YSayaovong/PropTech-Analytics-Platform-ETL-Forecasting-KPI-Engine)
 * [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization)
 * [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction)
+* [Simulateur Prix Construction Maison](https://simulateur-prix-construction-maison.fr/) — Free French construction cost estimator. Analyzes 36 criteria across 25 budget categories to estimate home building costs per m². Built with Next.js + Supabase.
 
 ---
 
@@ -186,7 +187,7 @@ This curated directory is optimized for **real estate investors**, not just agen
 * Open-source tools and developer resources for building automation and deal-flow infrastructure
 * Investor-focused blogs, podcasts and education for portfolio insights and deal sourcing
 * Data platforms, analytics tools and CRMs built for investor efficiency
-* AI, automation and lead-generation tools aligned with the “AI Wealth Engine” mindset
+* AI, automation and lead-generation tools aligned with the "AI Wealth Engine" mindset
 
 ---
 
@@ -204,6 +205,6 @@ Ready to **accelerate your real estate investing** with world-class AI tools and
 3. Configure your AI-powered workflow: skip trace → call/SMS outreach → CRM sync → real-time analytics.
 4. Monitor your response and conversion metrics — and scale your automation confidently.
 
-Your future pipeline shouldn’t wait. **Start today** and let AI become your competitive edge in real-estate investing.
+Your future pipeline shouldn't wait. **Start today** and let AI become your competitive edge in real-estate investing.
 
 ---
