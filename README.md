@@ -137,6 +137,7 @@
 
 * [Emerging Trends in Real Estate®](https://www.pwc.com/us/en/industries/real-estate/asset-management/emerging-trends-in-real-estate.html)
 * [PropTech 101](https://www.proptech101.com/)
+* [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) – Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
 
 ---
 
