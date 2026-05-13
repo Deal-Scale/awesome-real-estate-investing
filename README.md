@@ -105,6 +105,7 @@
 * [CompStak](https://www.compstak.com/)
 * [Reonomy](https://www.reonomy.com/)
 * [HomesToCompare](https://www.homestocompare.com/)
+* [ReceiptClaimer](https://receiptclaimer.com.au) – AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and sole traders. Automate expense tracking with OCR and maximize tax returns.
 
 ### CRMs & Automation Tools
 
