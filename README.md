@@ -164,6 +164,7 @@
 
 * [**Deal Scale**](https://dealscale.io/) – AI Wealth Engine for real-estate teams, investors, and agents.
 * [**Lead Orchestra**](https://leadorchestra.com/) – (Coming Soon) Open-source MCP + API aggregator for real-estate data.
+* [**Superhighway**](https://superhighway.walls.sh) – Web search, news, scrape, and research API for AI agents. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent) for building a Python agent that searches listings, scrapes property details, and scores deals with AI.
 
 ### Marketing & Lead Generation Tools
 
