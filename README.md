@@ -144,6 +144,7 @@
 
 ### Data & Listing APIs
 
+* [Zillapi](https://zillapi.com)
 * [ATTOM Data Solutions API](https://www.attomdata.com/)
 * [Gridics Zoning Data API](https://gridics.com/)
 * [Zoneomics API](https://zoneomics.com/)
