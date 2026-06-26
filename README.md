@@ -105,6 +105,7 @@
 * [CompStak](https://www.compstak.com/)
 * [Reonomy](https://www.reonomy.com/)
 * [HomesToCompare](https://www.homestocompare.com/)
+* [AssessorSearch](https://assessorsearch.com/) – Search U.S. property records by address, APN, parcel number, or owner name, with assessor data, tax records, deeds, permits, and county-source links.
 
 ### CRMs & Automation Tools
 
