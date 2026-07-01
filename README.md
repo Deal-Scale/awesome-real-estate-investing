@@ -153,6 +153,7 @@
 * [SimplyRETS](https://simplyrets.com/)
 * [Estated](https://estated.com/)
 * [Cherre](https://www.cherre.com/)
+* [Staying API](https://stayingapi.com) — Airbnb & short-term-rental listing data (photos, reviews, host, pricing, 12-month availability) via REST and MCP.
 
 ### Lead Page Builders & Website Platforms
 
