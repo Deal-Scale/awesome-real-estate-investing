@@ -17,6 +17,7 @@
   * [Podcasts](#podcasts)
   * [Marketplaces & Listing Platforms](#marketplaces--listing-platforms)
   * [Analytics & Data Platforms](#analytics--data-platforms)
+  * [Renovation & Construction Estimating](#renovation--construction-estimating)
   * [CRMs & Automation Tools](#crms--automation-tools)
   * [Education & Courses](#education--courses)
   * [Visualization & PropTech Tools](#visualization--proptech-tools)
@@ -105,6 +106,10 @@
 * [CompStak](https://www.compstak.com/)
 * [Reonomy](https://www.reonomy.com/)
 * [HomesToCompare](https://www.homestocompare.com/)
+
+### Renovation & Construction Estimating
+
+* [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete calculators and reference guides for renovation, slab, driveway, footing, and material-cost planning.
 
 ### CRMs & Automation Tools
 
