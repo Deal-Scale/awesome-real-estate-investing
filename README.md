@@ -164,6 +164,7 @@
 
 * [**Deal Scale**](https://dealscale.io/) – AI Wealth Engine for real-estate teams, investors, and agents.
 * [**Lead Orchestra**](https://leadorchestra.com/) – (Coming Soon) Open-source MCP + API aggregator for real-estate data.
+* [**voxelyo**](https://voxelyo.com/) – AI photo enhancement subscription for Airbnb, Vrbo, and real estate listing photos.
 
 ### Marketing & Lead Generation Tools
 
