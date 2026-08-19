@@ -164,6 +164,7 @@
 
 * [**Deal Scale**](https://dealscale.io/) – AI Wealth Engine for real-estate teams, investors, and agents.
 * [**Lead Orchestra**](https://leadorchestra.com/) – (Coming Soon) Open-source MCP + API aggregator for real-estate data.
+* [**marocain.investments**](https://marocain.investments/) – Independent AI verdict engine for Moroccan real estate ({GIN} score, AVM, rent-vs-market, honest legal risk) — for investors, renters, and owners; ships a public MCP server (`@marocain/mcp-server`) so AI agents can query the graded catalogue directly.
 
 ### Marketing & Lead Generation Tools
 
