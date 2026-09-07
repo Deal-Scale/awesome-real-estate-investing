@@ -102,6 +102,7 @@
 ### Analytics & Data Platforms
 
 * [HouseCanary](https://www.housecanary.com/)
+* [Altyst](https://altyst.ai/) – Commercial real estate underwriting: turns an address, listing link, offering memorandum or rent roll into a full editable model with cash flows, IRR, DSCR and sensitivity analysis.
 * [CompStak](https://www.compstak.com/)
 * [Reonomy](https://www.reonomy.com/)
 * [HomesToCompare](https://www.homestocompare.com/)
