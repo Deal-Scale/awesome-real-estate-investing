@@ -126,6 +126,8 @@
 * [Matterport](https://www.matterport.com/)
 * [Cubicasa](https://www.cubicasa.com/)
 * [iGUIDE](https://goiguide.com/)
+* [EmptyRoom AI](https://emptyroomai.com/) – AI virtual staging for realtor listing photos (vacant and occupied rooms).
+
 
 ### Foundational Geospatial & Data Sets
 
