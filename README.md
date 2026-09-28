@@ -137,6 +137,8 @@
 
 * [Emerging Trends in Real Estate®](https://www.pwc.com/us/en/industries/real-estate/asset-management/emerging-trends-in-real-estate.html)
 * [PropTech 101](https://www.proptech101.com/)
+* [AptToSell Korea Housing Subscription Data](https://apttosell.com/housing-subscription-data/) – CC BY 4.0 South Korea housing-subscription reference data covering the private-housing 84-point score structure and regional deposit requirements, with downloadable CSV/JSON, methodology, DOI-backed archives, and dated snapshots.
+* [Resimanor Korea Stress DSR Housing Finance Data](https://resimanor.com/housing-finance-dsr-data/) – CC BY 4.0 South Korea housing-finance reference data showing stress-DSR mortgage-limit scenarios by annual income and existing credit debt, with downloadable CSV/JSON, documented assumptions, DOI-backed archives, and dated snapshots.
 
 ---
 
