@@ -105,6 +105,7 @@
 * [CompStak](https://www.compstak.com/)
 * [Reonomy](https://www.reonomy.com/)
 * [HomesToCompare](https://www.homestocompare.com/)
+* [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) – Free U.S. roof replacement planning calculator with material, tear-off, local labor, and quote-scope inputs.
 
 ### CRMs & Automation Tools
 
