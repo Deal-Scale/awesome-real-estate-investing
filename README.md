@@ -126,6 +126,8 @@
 * [Matterport](https://www.matterport.com/)
 * [Cubicasa](https://www.cubicasa.com/)
 * [iGUIDE](https://goiguide.com/)
+* [Spaceora Virtual Staging](https://spaceora.app/virtual-staging) – AI virtual staging for real-estate listing photos from a single room photo.
+* [Spaceora Before & After Photo Maker](https://spaceora.app/before-and-after-photo-maker) – Free in-browser before-and-after listing photo combiner. No sign-up and no watermark.
 
 ### Foundational Geospatial & Data Sets
 
