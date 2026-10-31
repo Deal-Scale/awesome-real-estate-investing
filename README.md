@@ -105,6 +105,8 @@
 * [CompStak](https://www.compstak.com/)
 * [Reonomy](https://www.reonomy.com/)
 * [HomesToCompare](https://www.homestocompare.com/)
+- **[Modern CFO Cost Segregation Calculator & Overline IQ](https://freecostseg.com/proposal/)** - Instant 60-second MACRS 5-year, 15-year, and 27.5/39-year cost segregation and bonus depreciation calculator across 45 property types ([Overline IQ](https://overlineiq.com/cost-segregation-tax-savings) | [Benchmark Dataset](https://freecostseg.com/resources/cost-segregation-benchmarks/) | [GitHub Data](https://github.com/OverlineIQ/cost-segregation-benchmarks)).
+- **[The Trade Economy Index & Commercial Building Value Calculator](https://levelcfo.com/tools/building-revenue-calculator/)** - Benchmarks commercial property replacement value and annual HVAC, plumbing, roofing, electrical, elevator, and janitorial capex/opex across 9,084,887 US buildings and 366 metros ([TradesIndex](https://tradesindex.org) | [GitHub Data](https://github.com/levelcfo/trade-economy-index-data)).
 
 ### CRMs & Automation Tools
 
