@@ -145,6 +145,7 @@
 ### Data & Listing APIs
 
 * [ATTOM Data Solutions API](https://www.attomdata.com/)
+* [BatchData API](https://developer.batchdata.com)
 * [Gridics Zoning Data API](https://gridics.com/)
 * [Zoneomics API](https://zoneomics.com/)
 * [HouseCanary Core API](https://www.housecanary.com/core)
